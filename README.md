@@ -6,6 +6,8 @@
 ## A little bit about me:
   
   * I am a rising junior at Elon University
+  * I am majoring in Computer Science, Data Analytics, and Applied Mathematics (*scarier than it sounds*)
+  * I am from Fayetteville, North Carolina
   
 
 <!--
