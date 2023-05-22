@@ -3,6 +3,10 @@
 # I'm Clayton McLamb!
 ---
   
+## A little bit about me:
+  
+  * I am a rising junior at Elon University
+  
 
 <!--
 **claytonmclamb/claytonmclamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
