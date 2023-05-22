@@ -1,4 +1,8 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+  
+# I'm Clayton McLamb!
+---
+  
 
 <!--
 **claytonmclamb/claytonmclamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
