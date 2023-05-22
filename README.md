@@ -8,6 +8,8 @@
   * I am a rising junior at Elon University
   * I am majoring in Computer Science, Data Analytics, and Applied Mathematics (*scarier than it sounds*)
   * I am from Fayetteville, North Carolina
+  * I am an aspiring data scientist
+  * Hobbies: Coffee | LeetCode (*really fun*)
   
 
 <!--
