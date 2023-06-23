@@ -9,9 +9,10 @@
   * I am majoring in Computer Science, Data Analytics, and Applied Mathematics 
   * I am from Fayetteville, North Carolina
 
-|  [📱 Contact](#-contact-) | Contact Information  |
+|  [📱](#-contact-) | Contact Information  |
 |------------------------------------|----------------------|
-|
+| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"?> | cmclamb@elon.edu |
+
 
     
 
