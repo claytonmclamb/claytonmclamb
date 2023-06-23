@@ -16,7 +16,7 @@
 
 |  [📱](#-contact-)                                                                     | Contact Information  |
 |-------------------------------------------------------------------------------------------------------------|----------------------|
-| <div><img src=""/> | cmclamb@elon.edu|
+| <div><img src="https://github.com/claytonmclamb/claytonmclamb/blob/main/gmail.svg"/> | cmclamb@elon.edu|
 | <img src=""/> | [My LinkedIn](www.linkedin.com/in/clayton-mclamb) |
 
 
