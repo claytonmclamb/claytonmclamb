@@ -11,7 +11,7 @@
 
 |  [📱](#-contact-) | Contact Information  |
 |------------------------------------|----------------------|
-| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"?> | cmclamb@elon.edu |
+| <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> | cmclamb@elon.edu |
 
 
     
