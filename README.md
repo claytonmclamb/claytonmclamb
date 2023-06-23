@@ -1,6 +1,6 @@
 <p align="left"><img width=15%" src="https://github.com/claytonmclamb/claytonmclamb/blob/main/shreck.gif" alt="lang image here" /></p>
 
-# I'm Clayton McLamb!
+# <span style'"color: green">I'm Clayton McLamb!</span>
 ---
   
 ## A little bit about me:
