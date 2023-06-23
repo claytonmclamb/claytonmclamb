@@ -17,14 +17,15 @@
 |  [📱](#-contact-)                                                                     | Contact Information  |
 |-------------------------------------------------------------------------------------------------------------|----------------------|
 | <div><img src="https://github.com/claytonmclamb/claytonmclamb/blob/main/gmail.svg"/> | cmclamb@elon.edu|
-| <img src=""/> | [My LinkedIn](www.linkedin.com/in/clayton-mclamb) |
+| <img src="https://github.com/claytonmclamb/claytonmclamb/blob/main/linkedin.svg"/> | [My LinkedIn](www.linkedin.com/in/clayton-mclamb) |
 
 
 
 | [👨](#-social-) | Account |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <img src=""/> | [My HackerRank Profile](https://www.hackerrank.com/cmclamb?hr_r=1) |
-| <img src=""/>     | [My LeetCode Profile](https://leetcode.com/claytonmclamb) |
+| <img src="https://github.com/claytonmclamb/claytonmclamb/blob/main/hackerrank.svg"/> | [My HackerRank Profile](https://www.hackerrank.com/cmclamb?hr_r=1) |
+| <img src="https://github.com/claytonmclamb/claytonmclamb/blob/main/leetcode.svg"/>     | [My LeetCode Profile](https://leetcode.com/claytonmclamb) |
+| <img src="https://github.com/claytonmclamb/claytonmclamb/blob/main/kaggle.svg"/> | [My Kaggle Profile](https://www.kaggle.com/claytonmclamb) | 
 
 
     
