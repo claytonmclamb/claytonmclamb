@@ -12,6 +12,17 @@
   * I am from Fayetteville, North Carolina
   * Aspiring Data Scientist [📊](#-analytics-)
 
+## Languages/Technical Skills:
+
+  * **Python**
+  * **R**
+  * **Java**
+  * **SQL**
+  * **SAS**
+  * **C++**
+
+
+
 ## Contact Information
 
 |  [📱](#-contact-)                                                                     | Contact Information  |
