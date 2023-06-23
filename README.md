@@ -11,3 +11,4 @@
     
 ## 
   
+![Clayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytonmclamb\&include_all_commits=true)
