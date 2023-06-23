@@ -8,7 +8,10 @@
   * I am a rising junior at Elon University
   * I am majoring in Computer Science, Data Analytics, and Applied Mathematics 
   * I am from Fayetteville, North Carolina
+
+|  [📱 Contact](#-contact-) | Contact Information  |
+|------------------------------------|----------------------|
+|
+
     
-## 
-  
-![Clayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=claytonmclamb\&include_all_commits=true)
+
