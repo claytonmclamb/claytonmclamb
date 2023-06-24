@@ -10,7 +10,7 @@
   * I am a rising junior at Elon University
   * I am majoring in Computer Science, Data Analytics, and Applied Mathematics 
   * I am from Fayetteville, North Carolina
-  * Aspiring Data Scientist [📊](#-analytics-)
+  * Interested in Data & Analytics [📊](#-analytics-)
 
 ## Languages/Technical Skills:
 
