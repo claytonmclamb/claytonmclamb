@@ -11,7 +11,6 @@
   * I am majoring in Computer Science, Data Analytics, and Applied Mathematics 
   * I am from Fayetteville, North Carolina
   * Interested in Data & Analytics [📊](#-analytics-)
-  * Currently working on deep learning algorithms for flooded water segmentation in SAR imagery
 
 ## Languages/Technical Skills:
 
