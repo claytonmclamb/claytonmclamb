@@ -19,7 +19,7 @@
   * **Java**
   * **SQL**
   * **SAS**
-  * **C++**
+  * **C++** (*in a very niche programming challenging way*)
 
 
 
